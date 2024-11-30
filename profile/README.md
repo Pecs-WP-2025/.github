@@ -33,3 +33,53 @@ This project is a simple website designed for blog posts, enabling users to regi
 - Implement user profile pages.
 - Introduce categories or tags for blog posts.
 - Enhance UI/UX with additional styling and animations.
+
+# Project Task Breakdown
+
+## Backend Deliverables
+- Add post author to the post model
+- Create post model
+- Add database seeders
+- Create JWT handlers and auth
+- Create post table
+- Create user table
+- Create token table
+- Create a create-post component
+- Create role table
+- Create a home page with all posts
+- Create user model
+- Create a post page
+- Create login and register pages
+- Connect login and register to backend
+- Add auth models
+- Add logout
+- Add auth guard for all pages
+- Redirect unknown paths to home or login
+- Make side component with custom names
+- Create JWT response model
+- Create auth middlewares
+- Add database factories
+- Create table for database sessions
+
+## Frontend Deliverables
+- Add error popups
+- Add custom user avatars
+- Create About Us page
+- Create blank components of the project
+- Create a side component
+- Create a recent component
+- Create a proper layout
+- Create services
+- Create Contact Us page
+- Create footer
+- Create header
+- Create a create-post component
+- Create a home page with all posts
+- Create a post page
+- Create login and register pages
+- Connect login and register to backend
+- Add auth models
+- Add logout
+- Add auth guard for all pages
+- Redirect unknown paths to home or login
+- Make side component with custom names
